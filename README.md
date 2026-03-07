@@ -1,6 +1,6 @@
 ## Hi guys! I'm flower (A) 👋
 
-<!--
+![Sun Flower](img/github-header-banner.png)
 **flowersun00/flowersun00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
