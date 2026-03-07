@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi guys! I'm flower (A) 👋
 
 <!--
 **flowersun00/flowersun00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on home hehe
+- 🌱 I’m currently learning everything if i can 😉✌️
